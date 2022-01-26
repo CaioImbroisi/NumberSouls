@@ -1,4 +1,4 @@
-# NumberSouls
+# Number Souls
 Jogo de adivinhação baseado em Dark Souls, criado na minha primeira semana aprendendo programação.
 
 ### como funciona?
